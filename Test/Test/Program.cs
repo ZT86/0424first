@@ -12,6 +12,7 @@ namespace Test
         {
             string s="123";
             Console.WriteLine("123");
+            Console.WriteLine("asd");
         }
     }
 }
