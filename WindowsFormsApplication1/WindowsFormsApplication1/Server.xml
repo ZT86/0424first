@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ServerUpdate>
+  <item>
+    <ApplicationStart>MAutoUpdate.Test.exe</ApplicationStart>
+    <AppName>Print</AppName>
+    <MinVersion>1.0.0.0</MinVersion>
+    <ReleaseDate>2017/9/28 9:25:24</ReleaseDate>
+    <ReleaseUrl>\\192.168.1.106\Version\zt\upd\123.zip</ReleaseUrl>
+    <ReleaseVersion>1.1.0.0</ReleaseVersion>
+    <VersionDesc>\\192.168.1.106\Version\zt\upd\upddesc1.txt</VersionDesc>
+    <UpdateMode>Cover</UpdateMode>
+  </item>
+</ServerUpdate>
